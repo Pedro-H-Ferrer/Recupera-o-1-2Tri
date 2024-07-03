@@ -1,0 +1,28 @@
+header{
+    padding: 10px;
+    margin: 1px;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+.lema{
+    padding: 30px;
+    margin: 1px;
+    text-align: center;
+    font-weight: 32px;
+    font-style: italic;
+    background-color: gray;
+    font-size: 200px;
+}
+
+.autor{
+    padding: 30px;
+    margin: 1px;
+    text-align: right;
+    font-weight: 16px;
+    font-style: italic;
+    background-color: lightslategray;
+}
+
+
